@@ -7,7 +7,7 @@ Frontend Developer & UI Designer
 [![Linkedin Badge](https://img.shields.io/badge/-Glória%20Lelis-00B277?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gl%C3%B3ria-lelis-98961422b/)](https://www.linkedin.com/in/gl%C3%B3ria-lelis-98961422b/) 
 [![Gmail Badge](https://img.shields.io/badge/-lelisgloria77@gmail.com-00B277?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lelisgloria77@gmail.com)](mailto:lelisgloria77@gmail.com)
 
-![Lelis GitHub stats](https://github-readme-stats.vercel.app/api?username=glorialelis&show_icons=true&theme=vue-dark)
+
 
 ## Tecnologias que eu uso no meu dia
 
